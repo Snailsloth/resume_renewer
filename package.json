@@ -1,0 +1,12 @@
+{
+  "name": "hhran",
+  "version": "1.0.0",
+  "description": "resume auto renewer",
+  "main": "index.js",
+  "author": "snsl",
+  "license": "MIT",
+  "dependencies": {
+    "cron": "^1.7.1",
+    "puppeteer": "^1.17.0"
+  }
+}
