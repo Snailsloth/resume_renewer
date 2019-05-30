@@ -1,6 +1,6 @@
-# Project Title
+# hh resumes renewer
 
-hh resumes renewer
+renew resumes every X hours using puppeteer
 
 ## Getting Started
 
